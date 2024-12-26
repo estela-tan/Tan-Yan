@@ -1,0 +1,12 @@
+{
+  "hash": "a432da11c6d9f9f4e53b43d208963b83",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Homeworks\n---\n\n\n\n\n\n\n### [homework 1 for lecture 3](homework 1 for lecture 3.html)\n### [homework 2 for lecture 3](homework 1 for lecture 3.html)\n### [homework for lecture 2-pet names](homework for lecture 2-pet names.html)\n### [homework for lecture 4](homework for lecture 4.html)\n### [homework for lecture 5](homework for lecture 5.html)\n\n::: {#4e0785bc .cell execution_count=1}\n``` {.python .cell-code}\nimport os\n \ncurrent_dir = os.getcwd()\nfiles = []\nfor root, dirnames, filenames in os.walk(current_dir):\n    files.extend(filenames)\n```\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "hash": "d7bed7e42fc77ab13ec1c40ab4fc3241",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Homeworks\nexecute:\n  echo: false\n  output: false\n---\n\n\n\n\n\n\n### [homework 1 for lecture 3](homework 1 for lecture 3.html)\n### [homework 2 for lecture 3](homework 1 for lecture 3.html)\n### [homework for lecture 2-pet names](homework for lecture 2-pet names.html)\n### [homework for lecture 4](homework for lecture 4.html)\n### [homework for lecture 5](homework for lecture 5.html)\n\n\n\n['homework 1 for lecture 3.ipynb',\n 'homework 2 for lecture 3.ipynb',\n 'homework for lecture 2-pet names.ipynb',\n 'homework for lecture 4.ipynb',\n 'homework for lecture 5.ipynb',\n 'index.html',\n 'index.qmd',\n 'index.quarto_ipynb',\n 'html.json',\n 'fig-polar-output-1.png']\n\n---\njupyter:\n  kernelspec:\n    display_name: Python 3 (ipykernel)\n    language: python\n    name: python3\n    path: C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python311\\share\\jupyter\\kernels\\python3\n---\n",
+    "supporting": [
+      "index_files\\figure-ipynb"
+    ],
+    "filters": []
+  }
+}
