@@ -1,0 +1,24 @@
+---
+title: TAN YAN
+sidebar: false
+---
+---
+about:
+  template: jolla
+  id: about-block
+  image: "imgs/icon.png"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/estela-tan/Tan-Yan
+---
+
+::: {#about-block}
+:::
+
+#  my website!
+
+### ~BSU，EM24-A，TAN YAN
+#### ~English major, loves swimming
+
+

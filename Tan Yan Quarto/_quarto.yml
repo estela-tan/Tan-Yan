@@ -1,0 +1,111 @@
+website:
+  title: "Tan Yan website"
+  image: imgs/icon.png
+  
+  favicon: imgs/logo.png
+  
+  navbar:
+    pinned: true
+    logo: /imgs/logo2.png
+    
+    left:
+      - text: "Exercises"
+        href: exercises/index.qmd
+      - text: "Labs"
+        href: labs/index.qmd
+      - text: "Lecture"
+        href: Lecture/index.qmd
+    right:
+      - icon: folder-symlink
+        href: https://www.marvinschmitt.com
+      - icon: twitter
+        href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com
+      - icon: envelope
+        aria-label: email
+        href: "mailto:mail.marvinschmitt@gmail.com"  
+  
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    center: |
+      <span class="faux-block">&#169; TAN YAN</span>
+### [Practice 1 Climate change](Practice1.html)
+### [Practice2 empirical](practice2.html)
+### [Practice 3 Extract PDF and movie](practice3.html)
+### [Practice 4 IMDb and Douban](practice4.html)
+  sidebar:
+    - contents:
+      - section: "Exercises"
+        contents:
+          - text: "Practice 1 Climate change"
+            href: exercises/Practice1.html
+          - text: "Practice2 empirical"
+            href: exercises/practice2.html
+          - text: "Practice 3 Extract PDF and movie"
+            href: exercises/practice3.html
+          - text: "Practice 4 IMDb and Douban"
+            href: exercises/practice4.html
+      - section: "Labs"
+        contents:
+          - text: "homework 1 for lecture 3"
+            href: Lecture/homework 1 for lecture 3.html
+          - text: "homework 2 for lecture 3"
+            href: Lecture/homework 2 for lecture 3.html
+          - text: "homework for lecture 2-pet names"
+            href: Lecture/homework for lecture 2-pet names.html
+          - text: "homework for lecture 4"
+            href: Lecture/homework for lecture 4.html
+          - text: "homework for lecture 5"
+            href: Lecture/homework for lecture 5.html
+      - section: "Lecture"
+        contents:
+          - text: "lab1-1 chipotle"
+            href: labs/lab1-1 chipotle .html
+          - text: "lab1-2 Occupation"
+            href: labs/lab1-2 Occupation.html
+          - text: "lab1-3 World Food Facts"
+            href: labs/lab1-3 World Food Facts .html
+          - text: "lab1-4 chipotle"
+            href: labs/lab1-4 chipotle .html
+          - text: "lab1-5 Euro12"
+            href: labs/lab1-5 Euro12.html
+          - text: "lab1-6 Chipotle"
+            href: labs/lab1-6 Chipotle .html
+          - text: "lab1-7 Scores"
+            href: labs/lab1-7 Scores.html
+          - text: "lab2"
+            href: labs/lab2.html
+
+
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 8888
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - css/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+  ipynb: default
+
+
