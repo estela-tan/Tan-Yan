@@ -1,0 +1,12 @@
+---
+title: Labs
+---
+
+### [lab1-1 chipotle ](lab1-1 chipotle .html)
+### [lab1-2 Occupation](lab1-2 Occupation.html)
+### [lab1-3 World Food Facts ](lab1-3 World Food Facts .html)
+### [lab1-4 chipotle ](lab1-4 chipotle .html)
+### [lab1-5 Euro12](lab1-5 Euro12.html)
+### [lab1-6 Chipotle ](lab1-6 Chipotle .html)
+### [lab1-7 Scores](lab1-7 Scores.html)
+### [lab2](lab2.html)

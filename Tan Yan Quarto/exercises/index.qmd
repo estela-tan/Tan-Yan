@@ -1,0 +1,7 @@
+---
+title: Exercises
+---
+### [Practice 1 Climate change](Practice1.html)
+### [Practice2 empirical](practice2.html)
+### [Practice 3 Extract PDF and movie](practice3.html)
+### [Practice 4 IMDb and Douban](practice4.html)

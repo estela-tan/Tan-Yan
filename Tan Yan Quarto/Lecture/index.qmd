@@ -1,0 +1,10 @@
+---
+title: Homeworks
+---
+
+### [homework 1 for lecture 3](homework 1 for lecture 3.html)
+### [homework 2 for lecture 3](homework 1 for lecture 3.html)
+### [homework for lecture 2-pet names](homework for lecture 2-pet names.html)
+### [homework for lecture 4](homework for lecture 4.html)
+### [homework for lecture 5](homework for lecture 5.html)
+
