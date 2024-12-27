@@ -1,0 +1,258 @@
+{
+  "about.qmd": {
+    "about.html": "e269f3b5"
+  },
+  "index.qmd": {
+    "index.html": "42c8beb3",
+    "index.ipynb": "35e4946d"
+  },
+  "projects/index.qmd": {
+    "index.html": "88ee83a1",
+    "index.ipynb": "9b969bc9",
+    "index.pmd.ipynb": "b1a7873f",
+    "index.qmd.ipynb": "2ac667ce"
+  },
+  "lab/index.qmd": {
+    "index.html": "26354a58"
+  },
+  "labs/index.qmd": {
+    "index.html": "03e2fdb2",
+    "index.ipynb": "32df4756"
+  },
+  "projects/Practice1.ipynb": {
+    "Practice1.html": "181e941a",
+    "Practice1.out.ipynb": "b8d402dc",
+    "index.pmd.ipynb": "bbfa2827",
+    "index.ipynd.ipynb": "94840cb9",
+    "index.qmd.ipynb": "df00dfe8"
+  },
+  "projects/practice2 empirical.ipynb": {
+    "practice2 empirical.html": "46a24198"
+  },
+  "projects/practice3 Extract PDF and movie.ipynb": {
+    "practice3 Extract PDF and movie.html": "bc88161e"
+  },
+  "projects/practice4 IMDb and Douban.ipynb": {
+    "practice4 IMDb and Douban.html": "599e71c1",
+    "practice4 IMDb and Douban.out.ipynb": "6133eb9f"
+  },
+  "docs/index.ipynb": {
+    "index.html": "ef5f3e8c",
+    "index.out.ipynb": "67577c60"
+  },
+  "docs/labs/index.ipynb": {
+    "index.html": "866e4371",
+    "index.out.ipynb": "54461a80"
+  },
+  "docs/projects/index.ipynb": {
+    "index.html": "771e3164",
+    "index.out.ipynb": "0428634b"
+  },
+  "docs/projects/practice4 IMDb and Douban.out.ipynb": {
+    "practice4 IMDb and Douban.out.html": "da74f5d1",
+    "practice4 IMDb and Douban.out.out.ipynb": "5c4a3bf5"
+  },
+  "docs/docs/projects/practice4 IMDb and Douban.out.out.ipynb": {
+    "practice4 IMDb and Douban.out.out.html": "77a07ab9"
+  },
+  "docs/docs/projects/index.out.ipynb": {
+    "index.out.html": "289114f1",
+    "index.out.out.ipynb": "2f7de8f5"
+  },
+  "projects/practice2.ipynb": {
+    "practice2.html": "a9116315",
+    "practice2.out.ipynb": "6728a667",
+    "index.pmd.ipynb": "1447a0e9",
+    "index.ipynd.ipynb": "2c79175e",
+    "index.qmd.ipynb": "07d38908"
+  },
+  "projects/practice3.ipynb": {
+    "practice3.html": "a1339b3d",
+    "practice3.out.ipynb": "a04a615e",
+    "index.pmd.ipynb": "4a339357",
+    "index.ipynd.ipynb": "0ec67cd2",
+    "index.qmd.ipynb": "508aafc9"
+  },
+  "projects/practice4.ipynb": {
+    "practice4.html": "a3408544",
+    "practice4.out.ipynb": "23be99a5",
+    "index.pmd.ipynb": "f8841b8f",
+    "index.ipynd.ipynb": "281ed3c4",
+    "index.qmd.ipynb": "221204bc"
+  },
+  "docs/projects/practice4.out.ipynb": {
+    "practice4.out.html": "b060735a",
+    "practice4.out.out.ipynb": "cdc3351c"
+  },
+  "docs/docs/projects/practice4.out.out.ipynb": {
+    "practice4.out.out.html": "036db577"
+  },
+  "docs/projects/Practice1.out.ipynb": {
+    "Practice1.out.html": "c29f9df7"
+  },
+  "docs/projects/practice2.out.ipynb": {
+    "practice2.out.html": "159fdf16"
+  },
+  "docs/projects/practice3.out.ipynb": {
+    "practice3.out.html": "1d72174b"
+  },
+  "docs/projects/index.pmd.ipynb": {
+    "index.pmd.html": "af8cb308"
+  },
+  "docs/docs/labs/index.out.ipynb": {
+    "index.out.html": "93aa8090"
+  },
+  "docs/projects/index.ipynd.ipynb": {
+    "index.ipynd.html": "adfd52ae"
+  },
+  "docs/projects/index.qmd.ipynb": {
+    "index.qmd.html": "210c709b"
+  },
+  "docs/docs/docs/projects/index.out.out.ipynb": {
+    "index.out.out.html": "98368a5f"
+  },
+  "labs/lab1-1 chipotle .ipynb": {
+    "lab1-1 chipotle .html": "f6a61b0f",
+    "lab1-1 chipotle .out.ipynb": "54ad1e0f"
+  },
+  "labs/lab1-2 Occupation.ipynb": {
+    "lab1-2 Occupation.html": "3ebdd312",
+    "lab1-2 Occupation.out.ipynb": "dd1fd34f"
+  },
+  "labs/lab1-3 World Food Facts .ipynb": {
+    "lab1-3 World Food Facts .html": "ae427ca0",
+    "lab1-3 World Food Facts .out.ipynb": "3e9f98d2"
+  },
+  "labs/lab1-4 chipotle .ipynb": {
+    "lab1-4 chipotle .html": "629452dd",
+    "lab1-4 chipotle .out.ipynb": "d6e3cfad"
+  },
+  "labs/lab1-5 Euro12.ipynb": {
+    "lab1-5 Euro12.html": "103a7f42",
+    "lab1-5 Euro12.out.ipynb": "d1a2984d"
+  },
+  "labs/lab1-6 Chipotle .ipynb": {
+    "lab1-6 Chipotle .html": "e3ec30e5",
+    "lab1-6 Chipotle .out.ipynb": "afb0d0dc"
+  },
+  "labs/lab1-7 Scores.ipynb": {
+    "lab1-7 Scores.html": "b166c3d1",
+    "lab1-7 Scores.out.ipynb": "8f92a4fe"
+  },
+  "docs/labs/lab1-1 chipotle .out.ipynb": {
+    "lab1-1 chipotle .out.html": "7e3b067e"
+  },
+  "docs/labs/lab1-7 Scores.out.ipynb": {
+    "lab1-7 Scores.out.html": "f5c95e1a",
+    "lab1-7 Scores.out.out.ipynb": "c4eb3c78"
+  },
+  "exercises/index.qmd": {
+    "index.html": "4835089b",
+    "index.ipynb": "fbec149c"
+  },
+  "exercises/Practice1.ipynb": {
+    "Practice1.html": "5d0fe971",
+    "Practice1.out.ipynb": "ee017155"
+  },
+  "exercises/practice2.ipynb": {
+    "practice2.html": "618800f4",
+    "practice2.out.ipynb": "14194647"
+  },
+  "exercises/practice3.ipynb": {
+    "practice3.html": "ee971439",
+    "practice3.out.ipynb": "d0f31b22"
+  },
+  "exercises/practice4.ipynb": {
+    "practice4.html": "f6d86963",
+    "practice4.out.ipynb": "93f35c00"
+  },
+  "homeworks/index.qmd": {
+    "index.html": "c5ef41c8",
+    "index.ipynb": "e4e8308c"
+  },
+  "docs/exercises/index.ipynb": {
+    "index.html": "9c942192"
+  },
+  "docs/exercises/practice4.out.ipynb": {
+    "practice4.out.html": "110cba0a"
+  },
+  "docs/homeworks/index.ipynb": {
+    "index.html": "1364c76d",
+    "index.out.ipynb": "e4c07487"
+  },
+  "homeworks/homework 1 for lecture 3.ipynb": {
+    "homework 1 for lecture 3.html": "7f5d409b",
+    "homework 1 for lecture 3.out.ipynb": "9bfd7ea6"
+  },
+  "homeworks/homework 2 for lecture 3.ipynb": {
+    "homework 2 for lecture 3.html": "11fb4670",
+    "homework 2 for lecture 3.out.ipynb": "e8325e48"
+  },
+  "homeworks/homework for lecture 2-pet names.ipynb": {
+    "homework for lecture 2-pet names.html": "5545393d",
+    "homework for lecture 2-pet names.out.ipynb": "6400e96c"
+  },
+  "homeworks/homework for lecture 4.ipynb": {
+    "homework for lecture 4.html": "a4552aa9",
+    "homework for lecture 4.out.ipynb": "939e4fb5"
+  },
+  "homeworks/homework for lecture 5.ipynb": {
+    "homework for lecture 5.html": "c4e2e6f5",
+    "homework for lecture 5.out.ipynb": "c7f184cf"
+  },
+  "docs/homeworks/homework for lecture 5.out.ipynb": {
+    "homework for lecture 5.out.html": "d0f8e4c8"
+  },
+  "labs/lab2.qmd": {
+    "lab2.html": "4732fe2b"
+  },
+  "docs/homeworks/homework 1 for lecture 3.out.ipynb": {
+    "homework 1 for lecture 3.out.html": "f6017059"
+  },
+  "docs/homeworks/homework for lecture 2-pet names.out.ipynb": {
+    "homework for lecture 2-pet names.out.html": "f82ad6a8"
+  },
+  "docs/homeworks/homework for lecture 4.out.ipynb": {
+    "homework for lecture 4.out.html": "057d8f1c"
+  },
+  "docs/docs/labs/lab1-7 Scores.out.out.ipynb": {
+    "lab1-7 Scores.out.out.html": "94e85739"
+  },
+  "docs/docs/homeworks/index.out.ipynb": {
+    "index.out.html": "57c417db"
+  },
+  "docs/docs/index.out.ipynb": {
+    "index.out.html": "7b9de144"
+  },
+  "docs/labs/lab1-6 Chipotle .out.ipynb": {
+    "lab1-6 Chipotle .out.html": "e2fc0ab8",
+    "lab1-6 Chipotle .out.out.ipynb": "3b0b8deb"
+  },
+  "docs/docs/labs/lab1-6 Chipotle .out.out.ipynb": {
+    "lab1-6 Chipotle .out.out.html": "cca8a8ce"
+  },
+  "Lecture/homework 1 for lecture 3.ipynb": {
+    "homework 1 for lecture 3.html": "f6d10145",
+    "homework 1 for lecture 3.out.ipynb": "c5383ac9"
+  },
+  "Lecture/homework 2 for lecture 3.ipynb": {
+    "homework 2 for lecture 3.html": "3d4374ab",
+    "homework 2 for lecture 3.out.ipynb": "bae52df1"
+  },
+  "Lecture/homework for lecture 2-pet names.ipynb": {
+    "homework for lecture 2-pet names.html": "74d34e9f",
+    "homework for lecture 2-pet names.out.ipynb": "2105fb5c"
+  },
+  "Lecture/homework for lecture 4.ipynb": {
+    "homework for lecture 4.html": "4270fb17",
+    "homework for lecture 4.out.ipynb": "51c1c515"
+  },
+  "Lecture/homework for lecture 5.ipynb": {
+    "homework for lecture 5.html": "05adc17b",
+    "homework for lecture 5.out.ipynb": "e434cff0"
+  },
+  "Lecture/index.qmd": {
+    "index.html": "5714b777",
+    "index.ipynb": "b076b8ed"
+  }
+}
